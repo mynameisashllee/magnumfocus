@@ -1,1 +1,2 @@
 # magnumfocus
+Hello world
